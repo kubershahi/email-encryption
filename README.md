@@ -1,7 +1,8 @@
 # Applied Cryptography: Email End-to-End Encryption
 
-[![ISM 2021](https://img.shields.io/badge/ISM-2021-lightgrey)](#)
+
 [![Report](https://img.shields.io/badge/Report-Final%20PDF-b31b1b)](report/Email_Final_Report.pdf)
+[![ISM 2021](https://img.shields.io/badge/ISM-2021-lightgrey)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 An Independent Study Module at **Ashoka University**, completed by **Abhinav Nakarmi** and **Kuber Shahi**, under the supervision of **Prof. Mahavir Jhawar**. This repository hosts the [final report](report/Email_Final_Report.pdf), proof-of-concept artifacts, and screenshots from that work.
