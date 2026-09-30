@@ -5,7 +5,25 @@
 [![ISM 2021](https://img.shields.io/badge/ISM-2021-lightgrey)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-An Independent Study Module at **Ashoka University**, completed by **Abhinav Nakarmi** and **Kuber Shahi**, under the supervision of **Prof. Mahavir Jhawar**. This repository hosts the [final report](report/Email_Final_Report.pdf), proof-of-concept artifacts, and screenshots from that work.
+An Independent Study Module at **Ashoka University**, completed by **Abhinav Nakarmi** and **Kuber Shahi**, under the supervision of **Prof. Mahavir Jhawar**. This repository hosts the final report, proof-of-concept artifacts, and screenshots from that work.
+
+---
+
+## ISM deliverables
+
+The main output of this project is the written report. The experiments, screenshots, and notes in this repo support and demonstrate the work described in that document.
+
+| Resource | Description |
+|----------|-------------|
+| 📄 [ISM Report](report/Email_Final_Report.pdf) | 14-page write-up: replication of key replacement, decrypt/sign oracles, and key exfiltration against OpenPGP and S/MIME clients, plus countermeasures for each |
+
+**Supporting materials**
+
+- [Mailto proof-of-concept pages](experiments/mailto/) — HTML pages for the decrypt/sign oracle and key-exfiltration attack classes
+- [Client screenshots](figures/) — UI evidence from Thunderbird (Enigmail), Postbox, and eM Client
+- [OpenSSL reference](docs/openssl-reference.md) — commands used to generate certificates, keys, and related artifacts
+
+---
 
 ## Overview
 
